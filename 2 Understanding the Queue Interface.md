@@ -42,7 +42,7 @@ The Queue interface is a crucial part of the Java Collections Framework, providi
 3. **What are some practical examples of using the Queue Interface?**
    - Some practical examples of using the Queue Interface include implementing a Queue using LinkedList and using PriorityQueue to implement a Queue.
 
-```markdown
+
 # Lesson 2: Understanding the Queue Interface (Continued)
 
 ## Chapters
